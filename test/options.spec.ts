@@ -60,7 +60,7 @@ describe('options', () => {
     })
   })
 //   test comment
-
+// new test comment
   describe('output', () => {
     it('should work', () => {
       const options = normalizeOptions({
