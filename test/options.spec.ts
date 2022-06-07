@@ -59,8 +59,6 @@ describe('options', () => {
       expect(options.remote).to.equal('https://sitejs.org/nexe/')
     })
   })
-//   test comment
-// new test comment
   describe('output', () => {
     it('should work', () => {
       const options = normalizeOptions({
