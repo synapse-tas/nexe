@@ -13,6 +13,3 @@ preMerge:
 preRun:
      command:
         - npm ci
-postRun:
-     command:
-        - node --version
