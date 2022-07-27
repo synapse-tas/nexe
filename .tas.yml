@@ -13,4 +13,4 @@ preMerge:
 preRun:
      command:
         - npm ci
-#gghfsdf
+parallelism: 4
