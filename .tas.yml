@@ -13,5 +13,5 @@ preMerge:
 preRun:
      command:
         - npm ci
-parallelism: 8
+parallelism: 2
 #frdr
