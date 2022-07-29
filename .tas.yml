@@ -15,4 +15,3 @@ preRun:
         - npm ci
 parallelism: 4
 #frdrkfds
-#asda
