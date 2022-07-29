@@ -13,6 +13,6 @@ preMerge:
 preRun:
      command:
         - npm ci
-parallelism: 6
+parallelism: 4
 #frdrkfds
 #asda
